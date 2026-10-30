@@ -1,1 +1,0 @@
-web: python hi2_proxy_bot.py
