@@ -52,7 +52,7 @@ load_dotenv()
 #  CONFIG
 # ══════════════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8994170789:AAEZtp3mK5ZHLN3MQqF-mUN25_n6y_p86ok")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8994170789:AAH4C0tkDFxTcmGGgt_nAa_sRSw0radod0M")
 OWNER_ID  = int(os.environ.get("OWNER_ID", "8502412097"))
 
 def _get_db_path() -> str:
